@@ -1,4 +1,14 @@
 /****************************************
+
+  TO DO:
+
+  NOTE - When implemented with setTimeout(),
+  this code no longer works.  Perhaps a
+  rewrite using recussion will work?
+
+*****************************************/
+
+/****************************************
   BOOKS - Create and size
 *****************************************/
 

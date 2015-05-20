@@ -240,9 +240,17 @@ body {
 
 #button {
   width: 380px;
-  background: blue;
+  background: #4E92FF;
   color: white;
   text-align: center;
   padding: 20px 20px;
   margin: auto auto;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px rgba(0,0,0, .75);
+  text-shadow: 2px 2px 2px rgba(0,0,0, .75);
+}
+
+#button:hover {
+   background: #61A4FF;
+   cursor: pointer;
 }
